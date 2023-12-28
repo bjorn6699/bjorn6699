@@ -14,12 +14,10 @@
     
 
 <p align="center">
-    <img src="https://github.com/bjorn6699/bjorn6699/assets/119690087/ac46d736-92d6-408e-aa0a-9557f1935545">
+    <img class="image-align-left" src="https://github.com/bjorn6699/bjorn6699/assets/119690087/ac46d736-92d6-408e-aa0a-9557f1935545"/><img class="image-align-left" src="https://github.com/bjorn6699/bjorn6699/assets/119690087/48475137-dc8a-4144-b542-29f16117adcb"/>
 <p>
 
 
-<p align="center">
-    <img src="https://github.com/bjorn6699/bjorn6699/assets/119690087/48475137-dc8a-4144-b542-29f16117adcb">
-<p>
+
 
 
