@@ -1,9 +1,8 @@
 # Axel Björn Streiff 
 
-### &#x1F6F0; Aerospace/aeronautical engineer specialized in autonomous embedded systems. 
+### &#x1F6F0;  Aerospace/aeronautical engineer specialized in autonomous embedded systems. 
   
-> Check out my personnal ventures into programming !
-<br> &#x2692;  I am curious about everything that combines coding, science and DIY...
+> ##### Check out my personnal ventures into programming !<br>  &#x2692;  I am curious about everything that combines coding, science and DIY...
 <br><br>
 <p align="center">
     <img src="https://github.com/bjorn6699/bjorn6699/assets/119690087/6d960a40-560e-4c93-9cf0-1805c74284d0">
