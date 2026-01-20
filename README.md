@@ -7,7 +7,7 @@
 
 <p align="center">
     <img src="https://github.com/bjorn6699/bjorn6699/assets/119690087/6d960a40-560e-4c93-9cf0-1805c74284d0">
-    <br><a href="https://github.com/axelstreiff/Boid-Flocking-Sim">Demo: Boids FLocking Simulation</a>
+    <br><a href="https://github.com/axelstreiff/Boid-Flocking-Sim">Demo: Boids Flocking Simulation</a>
 <p>
 <br>
     
