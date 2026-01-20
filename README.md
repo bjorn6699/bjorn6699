@@ -11,7 +11,10 @@
 <p align="center">
     <img src="https://github.com/bjorn6699/bjorn6699/assets/119690087/6d960a40-560e-4c93-9cf0-1805c74284d0">
 <p>
-    
+
+### Check out my useful gists ! 
+- [Short script for X](https://gist.github.com/bjorn6699/GIST_ID_1) — one-line description
+- [Notes on Y](https://gist.github.com/bjorn6699/GIST_ID_2) — one-line description
 
 
 
