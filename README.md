@@ -1,16 +1,15 @@
 # Axel Björn Streiff 
-> *Bienvenue ! Welcome !*
+> *Bienvenue ! Welcome ! Bienvenido !*
 
-### &#x1F6F0;&ensp;&nbsp;Aerospace/aeronautical engineer specialized in autonomous embedded systems. 
-### &#x269B;&ensp;&nbsp;I am passionate about everything that combines coding, science and DIY !
+### &#x1F6F0;&ensp;&nbsp;Aerospace/aeronautical engineer specialized in autonomous embedded systems.<br>&#x269B;&ensp;&nbsp;I am passionate about everything that combines coding, science and DIY !
 <br>
 <p align="center">
     <img src="https://github.com/bjorn6699/bjorn6699/assets/119690087/6d960a40-560e-4c93-9cf0-1805c74284d0">
     <br><a href="https://github.com/axelstreiff/Boid-Flocking-Sim">Demo: Boids FLocking Simulation</a>
 <p>
 <br>
-
-### &#x2692;&ensp;&nbsp;My personal toolbox</h2>
+    
+### &#x2692;&ensp;&nbsp;My personal toolbox.</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
