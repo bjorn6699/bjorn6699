@@ -1,8 +1,10 @@
 # Axel Björn Streiff 
 > *Bienvenue ! Welcome ! Bienvenido !*
 
-### &#x1F6F0;&ensp;&nbsp;Aerospace/aeronautical engineer specialized in autonomous embedded systems.&nbsp;<br>&#x269B;&ensp;&nbsp;I am passionate about everything that combines coding, science and DIY !
-<br>
+### About me.
+&#x1F6F0;&ensp;&nbsp;Aerospace/aeronautical engineer specialized in autonomous embedded systems.<br>&#x269B;&ensp;&nbsp;Passionate about everything that combines coding, science and DIY !<br>&#x1F50D;&ensp;&nbsp;Always searching for innovative and practical solutions.
+<br><br/>
+
 <p align="center">
     <img src="https://github.com/bjorn6699/bjorn6699/assets/119690087/6d960a40-560e-4c93-9cf0-1805c74284d0">
     <br><a href="https://github.com/axelstreiff/Boid-Flocking-Sim">Demo: Boids FLocking Simulation</a>
