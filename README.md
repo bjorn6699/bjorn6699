@@ -35,9 +35,9 @@
 </p>
 
 ### &#x26C1;&ensp;&nbsp;Check out my useful gists ! 
-- [Python recursive file search](https://gist.github.com/bjorn6699/40a4e5b4f5f586190c062dfb5b0c6ea9) — Search for files in a directory. Select by extension. Execute a recursive search.
-- [Set URL certificates from inside a .venv](https://gist.github.com/bjorn6699/bf062f8f1af003f232fb617d877ddee7) — Set the certificates environment variable back to the global machine certificates file path when using a virtual environment.
-- [Python tokenized search for best match in a list of strings](https://gist.github.com/bjorn6699/fd8c430b38422558ae699f689c37fb5c) — Use approximative keywords and phrases to search for best match in a list of strings.
+- [Python recursive file search](https://gist.github.com/axelstreiff/40a4e5b4f5f586190c062dfb5b0c6ea9) — Search for files in a directory. Select by extension. Execute a recursive search.
+- [Set URL certificates from inside a .venv](https://gist.github.com/axelstreiff/bf062f8f1af003f232fb617d877ddee7) — Set the certificates environment variable back to the global machine certificates file path when using a virtual environment.
+- [Python tokenized search for best match in a list of strings](https://gist.github.com/axelstreiff/fd8c430b38422558ae699f689c37fb5c) — Use approximative keywords and phrases to search for best match in a list of strings.
 
 
 
